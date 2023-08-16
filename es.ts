@@ -567,7 +567,7 @@ export const ES = {
     Consumption: "Consumo",
     WarehouseInputCapacityDescV2: "Total capacity of inward transportation, divided equally among all routes",
     PlayerCountryFlag: "Player Flag",
-    PlayerCountryChooseFlag: "In Alphabetical Order of Country Code",
+    PlayerCountryChooseFlag: "En orden alfabético del código del país",
     WindTurbineAlwaysWork: "The Wind Rises",
     WindTurbineAlwaysWorkDesc: "Turbinas de viento trabajan el 100% del tiempo pero producen un 30% menos de energia",
     BookPublisherScience: "Science Literature",
